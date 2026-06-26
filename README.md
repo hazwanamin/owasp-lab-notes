@@ -18,3 +18,15 @@ Hands-on reproduction of 5 OWASP Top 10 vulnerabilities using DVWA, running loca
 
 \- \[05 - CSRF](./05-csrf.md)
 
+
+
+
+
+\## Attribution
+
+Vulnerability source code quoted from DVWA (Damn Vulnerable Web Application)
+
+by digininja — licensed under GNU GPL.
+
+https://github.com/digininja/DVWA
+
